@@ -1,0 +1,190 @@
+{
+    "users": [
+        {
+            "user_id": "1a0f1969-5412-4439-b5ca-12e222240015",
+            "first_name": "Alice",
+            "last_name": "Grassmen",
+            "account": {
+                "account_id": "e62cad6d-52bf-406b-ab6a-571eeccdf438",
+                "account_balance": 10000
+            }
+        },
+        {
+            "user_id": "2dff8c16-b82d-46fa-8761-457f4b0d431c",
+            "first_name": "Rachel",
+            "last_name": "Green",
+            "account": {
+                "account_id": "3f64d44b-cc5c-44e3-9f2a-c8481d99f8cc",
+                "account_balance": 15000
+            }
+        },
+        {
+            "user_id": "ba9b6d03-c23f-4d45-89c3-148f0350bf6b",
+            "first_name": "Monica",
+            "last_name": "Geller"
+        },
+        {
+            "user_id": "381a2a8e-84b5-4b3f-b64d-21a96ca53769",
+            "first_name": "Ross",
+            "last_name": "Geller"
+        },
+        {
+            "user_id": "9a9ae1cd-ee54-4e6e-bbbb-377b4b839681",
+            "first_name": "Chandler",
+            "last_name": "Bing"
+        },
+        {
+            "user_id": "36d5e281-bcee-4369-886b-896937e7f319",
+            "first_name": "Joey",
+            "last_name": "Tribiani"
+        },
+        {
+            "user_id": "8c656f61-181b-4176-8f93-18d120544695",
+            "first_name": "Michale",
+            "last_name": "Clark"
+        },
+        {
+            "user_id": "a27ebf19-dcaa-4abc-a3df-51533048fde1",
+            "first_name": "Ambar",
+            "last_name": "Heard"
+        },
+        {
+            "user_id": "d1925d4b-df0a-4ca2-90cf-ec5115e9b9ce",
+            "first_name": "Anastasia",
+            "last_name": "Grey"
+        },
+        {
+            "user_id": "69c85072-c29e-48b3-8fb9-c7ea00c85646",
+            "first_name": "Ross",
+            "last_name": "Peter"
+        },
+        {
+            "user_id": "3f432db4-d42e-4fec-9099-aebee2af9bc3",
+            "first_name": "Johny",
+            "last_name": "Depp",
+            "account": {
+                "account_id": "ecc048a5-f075-4aa4-a414-3df6d456dd9d",
+                "account_balance": 0
+            }
+        },
+        {
+            "user_id": "ba4e6939-f0e3-4943-a97d-f4a6b954e099",
+            "first_name": "Victoria",
+            "last_name": "Denis"
+        },
+        {
+            "user_id": "cc67df8c-2661-4847-a13e-1c648dea3d90",
+            "first_name": "Victoria",
+            "last_name": "Denis"
+        },
+        {
+            "user_id": "15f2bbbe-1259-4768-bc52-71e1f8fe7208",
+            "first_name": "Victoria",
+            "last_name": "Denis"
+        },
+        {
+            "user_id": "6e821336-d7cb-4339-ab65-cdb701b54af0",
+            "first_name": "Victoria",
+            "last_name": "Denis",
+            "account": {
+                "account_id": "e3c2cbf8-447d-49f9-9a2e-611b080e9a48",
+                "account_balance": 0
+            }
+        },
+        {
+            "user_id": "a54241a3-eda9-453f-9aed-7ff34ec80219",
+            "first_name": "Victoria",
+            "last_name": "Denis"
+        },
+        {
+            "user_id": "fbb3c558-551d-4d87-a300-1215f50169c1",
+            "first_name": "Victoria",
+            "last_name": "Denis",
+            "account": {
+                "account_id": "08c2ed33-73b9-43a9-8c92-aec28160526c",
+                "account_balance": 0
+            }
+        },
+        {
+            "user_id": "bdb44343-6572-4c9a-947b-9ab31f36a42a",
+            "first_name": "Victoria",
+            "last_name": "Denis",
+            "account": {
+                "account_id": "03b2a599-e93e-4811-bdf1-76a4ccc5ee87",
+                "account_balance": 0
+            }
+        },
+        {
+            "user_id": "a964bf86-84dd-4d3b-b415-c156160f0f84",
+            "first_name": "Victoria",
+            "last_name": "Denis",
+            "account": {
+                "account_id": "175afe9f-545a-40b5-93a4-4a3717b81382",
+                "account_balance": 0
+            }
+        },
+        {
+            "user_id": "53f4dda0-e2f3-4e1d-bd9c-e665c3c2b7b8",
+            "first_name": "Victoria",
+            "last_name": "Denis",
+            "account": {
+                "account_id": "6bd78b9c-c420-4c59-9c3a-be57601b9dc3",
+                "account_balance": 0
+            }
+        },
+        {
+            "user_id": "8c40bf7e-6c14-4cc2-9f1f-07fbcc6c3e63",
+            "first_name": "Victoria",
+            "last_name": "Denis",
+            "account": {
+                "account_id": "7b54931a-ca78-463b-97f4-1433c8d1bcb6",
+                "account_balance": 0
+            }
+        },
+        {
+            "user_id": "30630f09-0e8e-4cb9-931f-6e2a23732d45",
+            "first_name": "Victoria",
+            "last_name": "Denis",
+            "account": {
+                "account_id": "04f107cc-3ae2-4565-b27a-e28105aa705c",
+                "account_balance": 0
+            }
+        },
+        {
+            "user_id": "813fcab1-4a02-476c-a4f8-3002ab70165b",
+            "first_name": "Victoria",
+            "last_name": "Denis",
+            "account": {
+                "account_id": "23e7ce4a-5fd3-4abe-a4c2-ba23c824e487",
+                "account_balance": 0
+            }
+        },
+        {
+            "user_id": "060f0dc8-cc3d-49bc-b518-5de4893fa25c",
+            "first_name": "Victoria",
+            "last_name": "Denis",
+            "account": {
+                "account_id": "03c8e6c2-b1b9-47d7-8cca-f25b58855036",
+                "account_balance": 0
+            }
+        },
+        {
+            "user_id": "79fbb03a-87bf-4bc1-910e-036a3397b33b",
+            "first_name": "Victoria",
+            "last_name": "Denis",
+            "account": {
+                "account_id": "3fe42f19-b731-4e5a-af06-b4bbe8c15f33",
+                "account_balance": 0
+            }
+        },
+        {
+            "user_id": "a467fcf3-9742-49d4-a3b9-92f3ffcc90f3",
+            "first_name": "Victoria",
+            "last_name": "Denis",
+            "account": {
+                "account_id": "c5a811dc-d724-422c-ac29-a099929dec6d",
+                "account_balance": 0
+            }
+        }
+    ]
+}
